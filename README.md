@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @777ParallelClematis, Erin
-- 🌱 I’m currently learning HTML, CSS + JavaScript
-- ⭐ I'm learning C# and server-side/APIs with node.js and express
+- 🪷 Aspiring Full-Stacker, UX/UI'er, Founder & Tech-Generalist. 
+- 🌱 HTML, CSS + JavaScript (node.js, APIs)
+- ☀️ Python, SQL, C#
 
-- 🎓 Bachelor of Information Technology student (2nd year!)
+- 🎓 Bachelor of Information Technology student (2nd year)
   
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=777ParallelClematis&theme=github_dark)](https://github.com/777ParallelClematis)
 
