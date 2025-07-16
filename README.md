@@ -3,7 +3,7 @@
 - 🗺️ GIS fan
 - 📝 Documentation Lover & Code Understander
 - 🌱 MERN stack, bootstrap
-- ☀️ Python, SQL, NoSQL, C#, R
+- 👩‍💻 Python, SQL, NoSQL, C#, R
 - 🧭 Currently focusing on learning AI tools, Linux OS', Software Testing, Network Management & Security.
 - 💫 Stay up to date with my world here & on LinkedIn
 - 🎓 Bachelor of Information Technology student (2nd year)
