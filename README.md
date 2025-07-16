@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @777ParallelClematis, Erin
-- 🪷 Aspiring Full-Stacker, UX/UI'er, Founder & Tech-Generalist. 
-- 🌱 HTML, CSS + JavaScript (node.js, APIs)
-- ☀️ Python, SQL, NoSQL, C#
+- 🪷 Aspiring Full-Stacker, UX/UI'er, Data-Wrangler
+- 🗺️ GIS fan
+- 🌱 MERN stack, bootstrap
+- ☀️ Python, SQL, NoSQL, C#, R
 
 - 🎓 Bachelor of Information Technology student (2nd year)
   
