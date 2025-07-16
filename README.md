@@ -5,11 +5,10 @@
 - ☀️ Python, SQL, NoSQL, C#, R
 - 🧭 Currently focusing on learning AI tools, Linux OS', Software Testing, Network Management & Security.
 - 💫 Stay up to date with my world here & on LinkedIn
-
-- I am open to freelancing work in web dev, web design & more. Curious? Say hello 
-
-
 - 🎓 Bachelor of Information Technology student (2nd year)
+
+- 💼 I am open to freelancing work in web dev, web design & more. Curious? Say hello. 
+
   
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=777ParallelClematis&theme=github_dark)](https://github.com/777ParallelClematis)
 
