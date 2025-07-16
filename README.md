@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @777ParallelClematis, Erin
-- 🪷 Aspiring Full-Stacker, UX/UI'er, Data-Wrangler
+- 🪷 Full-Stacker, UX/UI'er, Data-Wrangler
 - 🗺️ GIS fan
 - 🌱 MERN stack, bootstrap
 - ☀️ Python, SQL, NoSQL, C#, R
+- 🧭 Currently focusing on learning AI tools, Linux Os' & Security.
+- 💫 Stay up to date with my world here & on LinkedIn
+
 
 - 🎓 Bachelor of Information Technology student (2nd year)
   
