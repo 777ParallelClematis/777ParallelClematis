@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @777ParallelClematis, Erin
+- 🖼️ Based in Aotearoa New Zealand
 - 🪷 Full-Stacker, UX/UI'er, Data-Wrangler, Generalist
 - 🎓 Bachelor of Information Technology student (2nd year)
 - 🗺️ GIS fan
