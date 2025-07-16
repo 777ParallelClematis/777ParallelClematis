@@ -1,18 +1,15 @@
 - 👋 Hi, I’m @777ParallelClematis, Erin
 - 🪷 Full-Stacker, UX/UI'er, Data-Wrangler, Generalist
+- 🎓 Bachelor of Information Technology student (2nd year)
 - 🗺️ GIS fan
 - 📝 Documentation Lover & Code Understander
 - 🌱 MERN stack, bootstrap
 - 👩‍💻 Python, SQL, NoSQL, C#, R
 - 🧭 Currently focusing on learning Security, AI tools, Linux OS', Software Testing & Network Management
 - 💫 Stay up to date with my world here & on LinkedIn
-- 🎓 Bachelor of Information Technology student (2nd year)
-
+---------------------------------------------------------
 - 💼 I am open to freelancing work in web dev, web design & more. Curious? Say hello.
 - ☀️ I am also seeking Summer work (Nov 2025 - Feb 2026) - Know of a project or position for me? Say hello.
-
-- My backlog of extra curricular interests, currently on hold:
-- GIS, R, Docker, DevOps
 
   
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=777ParallelClematis&theme=github_dark)](https://github.com/777ParallelClematis)
