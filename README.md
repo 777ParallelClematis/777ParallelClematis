@@ -4,7 +4,7 @@
 - 📝 Documentation Lover & Code Understander
 - 🌱 MERN stack, bootstrap
 - 👩‍💻 Python, SQL, NoSQL, C#, R
-- 🧭 Currently focusing on learning AI tools, Linux OS', Software Testing, Network Management & Security.
+- 🧭 Currently focusing on learning Security, AI tools, Linux OS', Software Testing & Network Management
 - 💫 Stay up to date with my world here & on LinkedIn
 - 🎓 Bachelor of Information Technology student (2nd year)
 
