@@ -4,7 +4,7 @@
 - 🎓 Bachelor of Information Technology student (2nd year)
 - 🗺️ GIS fan
 - 📝 Documentation Lover & Code Understander
-- ☁️ Cloud & DevOps curious
+- ☁️ Cloud, DevOps & Go curious
 - 🌱 MERN stack, bootstrap
 - 👩‍💻 Python, SQL, NoSQL, C#, R
 - 🧭 Currently focusing on learning Security, AI tools, Linux OS', Software Testing & Network Management
