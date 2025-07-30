@@ -13,6 +13,8 @@
 - 💼 I am open to freelancing work in web dev, web design & more. Curious? Say hello.
 - ☀️ I am also seeking Summer work (Nov 2025 - Feb 2026) - Know of a project or position for me? Say hello.
 
+- NOTE: Lots of my projects are private repositories in the interest of maintaining & upholding Academic integrity. 
+
   
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=777ParallelClematis&theme=github_dark)](https://github.com/777ParallelClematis)
 
