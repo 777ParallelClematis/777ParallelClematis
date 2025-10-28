@@ -11,7 +11,6 @@
 - 💫 Stay up to date with my world here & on LinkedIn
 ---------------------------------------------------------
 - 💼 I am open to freelancing work in web dev, web design & more. Curious? Say hello.
-- ☀️ I am also seeking Summer work (Nov 2025 - Feb 2026) - Know of a project or position for me? Say hello.
 
 - NOTE: Lots of my projects are private repositories in the interest of maintaining & upholding Academic integrity. 
 
