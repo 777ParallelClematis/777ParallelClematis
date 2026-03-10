@@ -7,7 +7,7 @@
 - 🕸️ Web - MERN / bootstrap
 - 🎏 Data Visualisation & Insights (GIS, Excel) 
 - 👩‍💻 Python, SQL, NoSQL, C#, R
-———————————————————————————————————————
+---------------------------------------------------------
 - 🧭 Currently focusing on learning Cloud (AWS), Databases, Business Intelligence, Project Management & Research
 - 💫 Stay up to date with my world here & on LinkedIn
 ---------------------------------------------------------
