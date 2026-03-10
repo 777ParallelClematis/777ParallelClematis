@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @777ParallelClematis, Erin
 - 🖼️ Based in Aotearoa New Zealand
-- 🪷 Full-Stacker, UX/UI'er, Data-Wrangler, Generalist
-- 🎓 Bachelor of Information Technology student (2nd year)
-- 🗺️ GIS fan
-- 📝 Documentation Lover & Code Understander
-- 🌱 MERN stack, bootstrap
+- 🎓 Bachelor of Information Technology student (3rd year)
+- 🪷 UX & UI design
+- 🎆 BA - technical design & modelling
+- ☁️ Cloud, Networking, Linux & Security
+- 🕸️ Web - MERN / bootstrap
+- 🎏 Data Visualisation & Insights (GIS, Excel) 
 - 👩‍💻 Python, SQL, NoSQL, C#, R
-- 🧭 Currently focusing on learning Security, AI tools, Linux OS', Software Testing & Network Management
+———————————————————————————————————————
+- 🧭 Currently focusing on learning Cloud (AWS), Databases, Business Intelligence, Project Management & Research
 - 💫 Stay up to date with my world here & on LinkedIn
 ---------------------------------------------------------
 - 💼 I am open to freelancing work in web dev, web design & more. Curious? Say hello.
